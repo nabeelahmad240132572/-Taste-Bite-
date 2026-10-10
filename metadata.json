@@ -1,0 +1,7 @@
+{
+  "name": "Taste & Bite | Pattoki Fast Food & Pizza",
+  "description": "Official online ordering menu for Taste & Bite. Enjoy Dynamite Grill Pizza, Stack Lava Burger, Special Platters, Zingers, and Super Deals with fast delivery in Pattoki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
